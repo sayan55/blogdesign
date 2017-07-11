@@ -1,9 +1,9 @@
 img.label_thumb {
   float:left;
   margin-right:10px !important;
-  height:65px;
+  height:100px;
   /* Thumbnail height */
-  width:65px;
+  width:150px;
 list-style: none;
 display: block;
 }
